@@ -1,0 +1,9 @@
+.active {
+    display: block;
+}
+.passive {
+    display: none;
+}
+li {
+    list-style: none;
+}
